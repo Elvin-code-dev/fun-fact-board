@@ -12,6 +12,9 @@ function App() {
 				fact={"Ping pong is fun to play and elvin is better at it!"}
 			/>
 		</div>
+
+		
+
 	);
 }
 
